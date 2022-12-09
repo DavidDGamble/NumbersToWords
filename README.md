@@ -2,38 +2,26 @@
 
 #### By: _**David Gamble & Teddy Atkinson**_
 
-#### _{Brief description of application}_
+#### _This is a console application that coverts numbers to written words._
 
 ## Technologies Used
 
-* _HTML_
-* _CSS_
-* _JavaScript_
-* _babel_
-* _webpack_
-* _css-loader_
-* _eslint_
-* _file-loader_
-* _gh-pages_
-* _html-loader_
-* _jest_
-* _style-loader_
-* _bootstrap_
+* _C#_
+* _MS Tests_
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_This is a console application that converts numbers from 0 to 9999 to written words._
 
 ## Setup/Installation Requirements
 
-* _fix this_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+* _Clone the repository to your desktop https://github.com/DavidDGamble/NumbersToWords.git_
+* _Navigate to the NumbersToWords repository in the root NumbersToWords repository._
+* _run [$ dotnet run] in terminal._
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _No known bugs._
 
 ## License
 
